@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>yacc's blog</title><link href="http://localhost:8080/" rel="alternate"></link><link href="http://localhost:8080/feeds/all.atom.xml" rel="self"></link><id>http://localhost:8080/</id><updated>2018-04-01T00:00:00+02:00</updated><entry><title>What's the point of Smart TVs?</title><link href="http://localhost:8080/whats-the-point-of-smarttvs.html" rel="alternate"></link><published>2018-04-01T00:00:00+02:00</published><updated>2018-04-01T00:00:00+02:00</updated><author><name>yacc143</name></author><id>tag:localhost,2018-04-01:/whats-the-point-of-smarttvs.html</id><summary type="html">&lt;p&gt;Just bought a new TV, a "smart" one. At the size, the only things
+<feed xmlns="http://www.w3.org/2005/Atom"><title>yacc's blog</title><link href="https://yacc143.github.io/" rel="alternate"></link><link href="https://yacc143.github.io/feeds/all.atom.xml" rel="self"></link><id>https://yacc143.github.io/</id><updated>2018-04-01T00:00:00+02:00</updated><entry><title>What's the point of Smart TVs?</title><link href="https://yacc143.github.io/whats-the-point-of-smarttvs.html" rel="alternate"></link><published>2018-04-01T00:00:00+02:00</published><updated>2018-04-01T00:00:00+02:00</updated><author><name>yacc143</name></author><id>tag:yacc143.github.io,2018-04-01:/whats-the-point-of-smarttvs.html</id><summary type="html">&lt;p&gt;Just bought a new TV, a "smart" one. At the size, the only things
 offered were SmartTVs.&lt;/p&gt;
 &lt;p&gt;Now to get the most out of it, I'd need to give our Wifi password to
 it, sigh. Won't happen, for these simple reasons:&lt;/p&gt;
@@ -33,7 +33,7 @@ it, sigh. Won't happen, for these simple reasons:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;And that leads to the question, why do manufacturers think that adding
-an unloved piece of software to their TVs is a great idea?&lt;/p&gt;</content></entry><entry><title>about yacc143</title><link href="http://localhost:8080/yacc143.html" rel="alternate"></link><published>2018-04-01T00:00:00+02:00</published><updated>2018-04-01T00:00:00+02:00</updated><author><name>yacc143</name></author><id>tag:localhost,2018-04-01:/yacc143.html</id><summary type="html">&lt;p&gt;Old-style nerd. Interests include all kinds of
+an unloved piece of software to their TVs is a great idea?&lt;/p&gt;</content></entry><entry><title>about yacc143</title><link href="https://yacc143.github.io/yacc143.html" rel="alternate"></link><published>2018-04-01T00:00:00+02:00</published><updated>2018-04-01T00:00:00+02:00</updated><author><name>yacc143</name></author><id>tag:yacc143.github.io,2018-04-01:/yacc143.html</id><summary type="html">&lt;p&gt;Old-style nerd. Interests include all kinds of
 &lt;a href="gadgets.html"&gt;gadgets&lt;/a&gt;, programming, some politics, ...&lt;/p&gt;
 &lt;p&gt;And yes, the yacc stands for that "yet another ..." tool that deals in languages recognizable by stack machines, sigh. As mentioned, nerd alarm.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Old-style nerd. Interests include all kinds of
 &lt;a href="gadgets.html"&gt;gadgets&lt;/a&gt;, programming, some politics, ...&lt;/p&gt;
