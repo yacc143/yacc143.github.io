@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>yacc's blog - gadgets</title><link href="http://localhost:8080/" rel="alternate"></link><link href="http://localhost:8080/feeds/gadgets.atom.xml" rel="self"></link><id>http://localhost:8080/</id><updated>2018-04-01T00:00:00+02:00</updated><entry><title>What's the point of Smart TVs?</title><link href="http://localhost:8080/whats-the-point-of-smarttvs.html" rel="alternate"></link><published>2018-04-01T00:00:00+02:00</published><updated>2018-04-01T00:00:00+02:00</updated><author><name>yacc143</name></author><id>tag:localhost,2018-04-01:/whats-the-point-of-smarttvs.html</id><summary type="html">&lt;p&gt;Just bought a new TV, a "smart" one. At the size, the only things
+offered were SmartTVs.&lt;/p&gt;
+&lt;p&gt;Now to get the most out of it, I'd need to give our Wifi password to
+it, sigh. Won't happen, for these simple reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Smart TVs are, software wise, niche devices. With an …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Just bought a new TV, a "smart" one. At the size, the only things
+offered were SmartTVs.&lt;/p&gt;
+&lt;p&gt;Now to get the most out of it, I'd need to give our Wifi password to
+it, sigh. Won't happen, for these simple reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Smart TVs are, software wise, niche devices. With an OS that is
+  seldom, if at all maintained.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Connecting unmaintained devices to the Internet is not very
+  safe. &lt;em&gt;(And the people that know how to keep such things at least
+  partially safe, seldom enjoy all the firewall setup, but that's a
+  personal observation.)&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Smart TV supports some, but not all of our usage cases. Again,
+  it's a nice device, that is proprietary so it has a relative small
+  selection of apps to run on it, and these are seldom if at all
+  maintained.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;So to cover everything you need something like an Amazon FireTV
+  anyways, now if you need that anyways, why use the inferior and
+  unsafe like the TV's services?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And that leads to the question, why do manufacturers think that adding
+an unloved piece of software to their TVs is a great idea?&lt;/p&gt;</content></entry></feed>

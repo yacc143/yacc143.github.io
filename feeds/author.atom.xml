@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>yacc's blog - author</title><link href="http://localhost:8080/" rel="alternate"></link><link href="http://localhost:8080/feeds/author.atom.xml" rel="self"></link><id>http://localhost:8080/</id><updated>2018-04-01T00:00:00+02:00</updated><entry><title>about yacc143</title><link href="http://localhost:8080/yacc143.html" rel="alternate"></link><published>2018-04-01T00:00:00+02:00</published><updated>2018-04-01T00:00:00+02:00</updated><author><name>yacc143</name></author><id>tag:localhost,2018-04-01:/yacc143.html</id><summary type="html">&lt;p&gt;Old-style nerd. Interests include all kinds of
+&lt;a href="gadgets.html"&gt;gadgets&lt;/a&gt;, programming, some politics, ...&lt;/p&gt;
+&lt;p&gt;And yes, the yacc stands for that "yet another ..." tool that deals in languages recognizable by stack machines, sigh. As mentioned, nerd alarm.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Old-style nerd. Interests include all kinds of
+&lt;a href="gadgets.html"&gt;gadgets&lt;/a&gt;, programming, some politics, ...&lt;/p&gt;
+&lt;p&gt;And yes, the yacc stands for that "yet another ..." tool that deals in languages recognizable by stack machines, sigh. As mentioned, nerd alarm.&lt;/p&gt;</content></entry></feed>
